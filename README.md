@@ -1,3 +1,8 @@
+<strong>This repository was moved to [validatedpatterns/regional-resiliency-pattern](https://github.com/validatedpatterns/regional-resiliency-pattern).</strong>
+
+<details>
+<summary>Old README</summary>
+   
 # Regional Resiliency Pattern
 
 The _Regional Resiliency Pattern_ is a [Validated Pattern][vp] derived from the
@@ -142,3 +147,5 @@ by [ACM][acm]'s heartbeat mechanism, a failover will be triggered to all related
 [troubleshooting]: https://github.com/RHEcosystemAppEng/regional-resiliency-pattern/blob/main/docs/Troubleshooting.md
 [uninstalling]: https://github.com/RHEcosystemAppEng/regional-resiliency-pattern/blob/main/docs/Uninstalling.md
 [vp]: https://validatedpatterns.io/
+
+</details>
